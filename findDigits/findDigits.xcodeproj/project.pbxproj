@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		73087D7523E9732600882327 /* findDigits */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = findDigits; sourceTree = BUILT_PRODUCTS_DIR; };
 		73087D7823E9732600882327 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		73087D7F23E9769700882327 /* input00.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input00.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				73087D7823E9732600882327 /* main.cpp */,
+				73087D7F23E9769700882327 /* input00.txt */,
 			);
 			path = findDigits;
 			sourceTree = "<group>";
